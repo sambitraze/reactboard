@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import "./App.css";
-import Swatch from "./components/Swatch";
+import Swatch from "./components/swatch";
 import rough from "roughjs/bundled/rough.esm";
 import {
   createElement,
