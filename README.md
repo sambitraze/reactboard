@@ -1,17 +1,10 @@
 # Getting Started with Create React App
 
-This project is a part of creating whiteboard-app series.
-
-Link to medium article: https://bansalsurya.medium.com/making-a-whiteboard-application-with-reactjs-862b9f320850
-
 ### Output:
 
 ![React App_Trim](https://user-images.githubusercontent.com/42608756/123518903-bd6ef900-d6c5-11eb-8c82-1949bce4d100.gif)
 
 ### Final App:
-
-https://bansalsurya.github.io/pencilpal/
-
 
 ![New-video](https://user-images.githubusercontent.com/42608756/123520542-de881780-d6ce-11eb-92c8-cca0ad35fde9.gif)
 
