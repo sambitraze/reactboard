@@ -1,6 +1,5 @@
 {
   "name": "pencilpal",
-  "homepage": "https://bansalsurya.github.io/pencilpal/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
